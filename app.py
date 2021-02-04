@@ -11,3 +11,6 @@ class Input_anime():
     def add_anime(self, name):
         name = input("Enter  the anime name: ") 
         Input_anime(name=name)
+name = input("Enter Your Name:")
+if __name__ == "__main__": 
+    print(Input_anime(name))
