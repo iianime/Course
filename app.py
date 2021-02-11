@@ -1,5 +1,5 @@
 # make first pull request (first choice)
-
+# make second pull request (second choice)
 class Input_anime():
     def __init__(self, name, all=False):
         self.name = str(name)
