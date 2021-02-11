@@ -1,3 +1,5 @@
+# make first pull request (first choice)
+
 class Input_anime():
     def __init__(self, name, all=False):
         self.name = str(name)
